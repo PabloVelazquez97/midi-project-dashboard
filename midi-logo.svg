@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- MIDI Text -->
+  <path d="M 40 340 L 40 172 L 80 172 L 120 280 L 160 172 L 200 172 L 200 340 L 160 340 L 160 230 L 130 340 L 110 340 L 80 230 L 80 340 Z" fill="#C8363E"/>
+  <path d="M 240 340 L 240 172 L 280 172 L 280 340 Z" fill="#C8363E"/>
+  <path d="M 320 340 L 320 172 L 400 172 C 440 172 470 202 470 256 C 470 310 440 340 400 340 Z M 360 210 L 360 302 L 390 302 C 410 302 425 287 425 256 C 425 225 410 210 390 210 Z" fill="#C8363E"/>
+  
+  <!-- Checkmark -->
+  <path d="M 470 172 C 450 172 435 187 435 207 C 435 217 439 226 446 233 L 420 259 L 447 286 L 480 253 C 485 255 490 256 495 256 C 515 256 530 241 530 221 C 530 201 515 186 495 186 C 485 186 476 190 470 196 Z" fill="#C8363E"/>
+  <path d="M 440 240 L 465 265 L 520 180" stroke="#C8363E" stroke-width="20" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
