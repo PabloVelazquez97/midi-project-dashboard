@@ -1,5 +1,6 @@
 {
   "name": "midi-project-dashboard",
+  "homepage": "https://pablovelazquez97.github.io/midi-project-dashboard",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
