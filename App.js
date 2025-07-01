@@ -247,7 +247,7 @@ const ProjectDashboard = () => {
     return (
       <div 
         onClick={() => onClick(task)}
-        className="bg-white rounded-lg p-4 shadow-sm border border-gray-200 mb-3 cursor-pointer hover:shadow-md transition-shadow"
+        className="bg-white shadow-lg hover:shadow-xl rounded-2xl transition-shadow p-4 mb-3 cursor-pointer transform hover:-translate-y-1 transition-all duration-200"
       >
         <div className="flex items-start justify-between mb-2">
           <div className="flex items-center gap-2">
@@ -291,8 +291,8 @@ const ProjectDashboard = () => {
 
   const ProjectCard = ({ project }) => {
     return (
-      <div className="bg-white rounded-lg p-4 shadow-sm border border-gray-200">
-        <div className="flex justify-between items-start mb-3">
+      <div className="bg-white shadow-lg hover:shadow-xl rounded-2xl transition-shadow p-4 cursor-pointer transform hover:-translate-y-1 transition-all duration-200">
+      <div className="flex justify-between items-start mb-3">
           <h3 className="font-semibold text-gray-900">{project.name}</h3>
           <span className={`text-xs px-2 py-1 rounded-full ${
             project.status === 'active' ? 'bg-green-50 text-green-600' : 'bg-gray-50 text-gray-600'
