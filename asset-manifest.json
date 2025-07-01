@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/midi-project-dashboard/static/css/main.151577c8.css",
+    "main.js": "/midi-project-dashboard/static/js/main.cbda7be4.js",
+    "index.html": "/midi-project-dashboard/index.html",
+    "main.151577c8.css.map": "/midi-project-dashboard/static/css/main.151577c8.css.map",
+    "main.cbda7be4.js.map": "/midi-project-dashboard/static/js/main.cbda7be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.151577c8.css",
+    "static/js/main.cbda7be4.js"
+  ]
+}
