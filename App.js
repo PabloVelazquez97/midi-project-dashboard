@@ -827,7 +827,7 @@ const ProjectDashboard = () => {
   };
 
   return (
-    <div className="bg-gray-50 min-h-screen">
+    <div className="bg-gray-100 min-h-screen">
       {/* Main Content */}
       {activeView === 'dashboard' && <DashboardView />}
       {activeView === 'tasks' && <TasksView />}
