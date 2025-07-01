@@ -1,0 +1,12 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded background -->
+  <rect width="192" height="192" rx="40" fill="white"/>
+  
+  <!-- MIDI Text (simplified) -->
+  <path d="M 30 120 L 30 72 L 45 72 L 55 105 L 65 72 L 80 72 L 80 120 L 65 120 L 65 90 L 57.5 120 L 52.5 120 L 45 90 L 45 120 Z" fill="#C8363E"/>
+  <rect x="90" y="72" width="15" height="48" fill="#C8363E"/>
+  <path d="M 115 120 L 115 72 L 140 72 C 155 72 165 82 165 96 C 165 110 155 120 140 120 Z M 130 85 L 130 107 L 138 107 C 145 107 150 102 150 96 C 150 90 145 85 138 85 Z" fill="#C8363E"/>
+  
+  <!-- Small checkmark -->
+  <path d="M 150 75 L 160 85 L 175 60" stroke="#C8363E" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
