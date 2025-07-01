@@ -343,10 +343,18 @@ const ProjectDashboard = () => {
     <div className="p-4 pb-20">
       {/* Header */}
       <div className="mb-6">
-        <h1 className="text-2xl font-bold text-gray-900">Hi Pablo 👋</h1>
-        <p className="text-gray-600">Here's your focus for today</p>
-      </div>
-
+  <div className="flex items-center justify-between mb-4">
+    <div>
+      <h1 className="text-2xl font-bold text-gray-900">Hi Pablo 👋</h1>
+      <p className="text-gray-600">Here's your focus for today</p>
+    </div>
+    <img 
+      src="/midi-project-dashboard/midi-logo.svg" 
+      alt="MIDI Logo" 
+      className="h-12 w-auto"
+    />
+  </div>
+</div>
       {/* Quick Stats */}
       <div className="grid grid-cols-2 gap-3 mb-6">
         <div className="bg-red-50 rounded-lg p-4">
